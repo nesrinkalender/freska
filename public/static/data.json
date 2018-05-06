@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "map_id": "TOILET1",
+    "queue_time": 1800,
+    "queue_level": 1,
+    "type": "male",
+    "location": [{ "lat": 44.425727 }, { "lng": 26.09257 }]
+  },
+  {
+    "id": 2,
+    "map_id": "TOILET2",
+    "queue_time": 1800,
+    "queue_level": 3,
+    "type": "female",
+    "location": [{ "lat": 44.428055 }, { "lng": 26.100981 }]
+  },
+  {
+    "id": 3,
+    "map_id": "TOILET3",
+    "queue_time": 1800,
+    "queue_level": 1,
+    "type": "male",
+    "location": [{ "lat": 44.435501 }, { "lng": 26.102998 }]
+  },
+  {
+    "id": 4,
+    "map_id": "TOILET4",
+    "queue_time": 1800,
+    "queue_level": 1,
+    "type": "female",
+    "location": [{ "lat": 44.444693 }, { "lng": 26.091831 }]
+  },
+  {
+    "id": 5,
+    "map_id": "TOILET5",
+    "queue_time": 1800,
+    "queue_level": 8,
+    "type": "male",
+    "location": [{ "lat": 44.452995 }, { "lng": 26.102731 }]
+  },
+  {
+    "id": 6,
+    "map_id": "TOILET6",
+    "queue_time": 1800,
+    "queue_level": 4,
+    "type": "female",
+    "location": [{ "lat": 44.446775 }, { "lng": 26.096766 }]
+  },
+  {
+    "id": 7,
+    "map_id": "TOILET7",
+    "queue_time": 1800,
+    "queue_level": 1,
+    "type": "male",
+    "location": [{ "lat": 44.45554 }, { "lng": 26.084014 }]
+  },
+  {
+    "id": 8,
+    "map_id": "TOILET8",
+    "queue_time": 1800,
+    "queue_level": 10,
+    "type": "female",
+    "location": [{ "lat": 44.444112 }, { "lng": 26.078993 }]
+  }
+]
